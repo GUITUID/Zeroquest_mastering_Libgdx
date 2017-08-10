@@ -3,7 +3,6 @@ connection.arguments=
 connection.gradle.distribution=GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(C\:\\Users\\Zadwarf.ZADWARF-PC\\Downloads\\Libgdx install package\\Gradle\\gradle-2.10))
 connection.java.home=null
 connection.jvm.arguments=
-connection.project.dir=..
 derived.resources=.gradle,build
 eclipse.preferences.version=1
 natures=org.eclipse.jdt.core.javanature
